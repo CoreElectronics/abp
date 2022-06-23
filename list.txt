@@ -1,4 +1,4 @@
 [Adblock Plus 3.1]
 ##div[title*="Upgrade Now!"]
 ##a[title*="Upgrade Now!"]
-coreelectronics.zendesk.com##iframe[class*="_2ChX4GFAl1-UBiWknYZyEQ"]
+coreelectronics.zendesk.com##._2ChX4GFAl1-UBiWknYZyEQ
